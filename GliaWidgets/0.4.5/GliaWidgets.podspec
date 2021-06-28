@@ -1,6 +1,5 @@
 Pod::Spec.new do |s|
-    s.name             = 'GliaWidgets
-    '
+    s.name             = 'GliaWidgets'
     s.version          = '0.4.5'
     s.summary          = 'GliaWidgets'
     s.description      = 'GliaWidgets'
